@@ -1,2 +1,2 @@
 # React-native-project
- Projeto desenvolvido junto a semana omministack 11
+ Projeto desenvolvido junto a semana omnistack 11
