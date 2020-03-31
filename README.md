@@ -1,2 +1,2 @@
 # React-native-project
- Projeto desenvolvido junto a semana omnistack 11
+Plataforma para auxiliar as ONGs acharem contribuintes paras seus casos e projetos sociais.
