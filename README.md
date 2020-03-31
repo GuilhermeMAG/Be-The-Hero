@@ -1,3 +1,3 @@
 # Be The Hero
 
-Plataforma para auxiliar as ONGs acharem contribuintes paras seus casos e projetos sociais.
+Plataforma de auxilio a ONG's que precisam de ajuda em seus casos e projetos sociais. 
