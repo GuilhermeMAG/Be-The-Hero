@@ -41,7 +41,7 @@
     <p>
         
     </p>
-    <h3 class="#"> Atualizado em 31/Mar/2020</h3>
+   
 </hgroup>
     </header>
 
