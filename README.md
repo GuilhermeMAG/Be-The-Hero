@@ -10,11 +10,6 @@
 
 <head>
     <meta charset="utf-8"/>
-    <style>
-        img: {
-          height: 50%;
-        }
-    </style>
 </head>
 <body>
 
