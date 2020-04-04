@@ -14,8 +14,16 @@
 <body>
   
   <img src="assets/BeTheHeroLogon.jpg"/>
-
-<h1><a href="https://guilhermemag.github.io/" target="_blank"> Meu Portfólio </a></h1>
+  <img src="assets/BeTheHeroNewlogin.jpg"/>
+  <img src="assets/BeTheHeroNew.jpg"/>
+  <img src="assets/BeTheHeroSession.jpg"/>
+   
+   <img src="assets/Screenshot_20.jpg"/>
+   <img src="assets/Screenshot_21.jpg"/>
+   <img src="assets/Screenshot_22.jpg"/>
+   <img src="assets/Screenshot_23.jpg"/>
+  
+<h2><a href="https://guilhermemag.github.io/" target="_blank"> Meu Portfólio </a></h2>
 
 </body>
 </html>
