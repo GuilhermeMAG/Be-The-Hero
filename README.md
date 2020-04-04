@@ -13,33 +13,12 @@
 </head>
 <body>
 
-<h1><a href="https://guilhermemag.github.io/" target="_blank"> Meu Portfólio </a></h1> 
-  
 
-<img id="icone" src="assets/Screenshot_20"/>
-
-<h3> </h3>
-<p> </p>
-
+<h2>Cadastro de ONG's</h2>
 <img src="assets/BeTheHeroLogon.jpg"/>
 
-<h3> </h3>
-<p> </p>
-
-<h3> </h3>
-
- 
-<h3> </h3>
-<p> </p>
-
-<h3> </h3>
-<p> </p>
-
-<h2> </h2>
-<p> </p>
-
-<p> </p>
-
+<h1><a href="https://guilhermemag.github.io/" target="_blank"> Meu Portfólio </a></h1> 
+  
 </body>
 </html>
 
