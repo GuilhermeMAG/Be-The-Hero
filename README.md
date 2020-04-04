@@ -16,6 +16,15 @@
 
 <h2>Cadastro de ONG's</h2>
 <img src="assets/BeTheHeroLogon.jpg"/>
+<img src="assets/BeTheHeroNewLogin.jpg"/>
+<img src="assets/BeTheHeroNew.jpg"/>
+<img src="assets/BeTheHeroSession.jpg"/>
+
+<img src="assets/Screenshot_20.jpg"/>
+<img src="assets/Screenshot_21.jpg"/>
+<img src="assets/Screenshot_22.jpg"/>
+<img src="assets/Screenshot_23.jpg"/>
+
 
 <h1><a href="https://guilhermemag.github.io/" target="_blank"> Meu Portfólio </a></h1> 
   
