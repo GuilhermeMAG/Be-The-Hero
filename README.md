@@ -12,8 +12,10 @@
     <meta charset="utf-8"/>
 </head>
 <body>
- <h1><a href="https://guilhermemag.github.io/" target="_blank"> Meu Portfólio </a></h1> 
+  
   <img src="assets/BeTheHeroLogon.jpg"/>
+
+<h1><a href="https://guilhermemag.github.io/" target="_blank"> Meu Portfólio </a></h1>
 
 </body>
 </html>
