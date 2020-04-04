@@ -38,10 +38,7 @@
 <hgroup>
     <h3>Home</h3>
     <h1><a href="https://guilhermemag.github.io/" target="_blank"> Meu Portfólio </a></h1> 
-    <p>
-        
-    </p>
-   
+  
 </hgroup>
     </header>
 
