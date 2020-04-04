@@ -47,7 +47,7 @@
 
 
 <figure class="#">
-<img src="#"/>
+<img src="assets/BeTheHeroLogon.jpg"/>
     <figcaption>
         <h3> </h3>
         <p> </p>
