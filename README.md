@@ -2,7 +2,9 @@
 
  Plataforma de auxilio a ONG's de uso fácil e Prático.
 
-Link para download do app: https://expo.io/dashboard/alphamag330/builds/20fb94e4-dbac-4fb7-985d-d55d05d3bd08
+Link para Web(ONG-Client): http://192.168.15.48:3000/
+
+Link para download do app(Herói-Client): https://expo.io/dashboard/alphamag330/builds/20fb94e4-dbac-4fb7-985d-d55d05d3bd08
 
 <!DOCTYPE html>
 
