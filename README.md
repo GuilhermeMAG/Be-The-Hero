@@ -38,7 +38,7 @@ Link para download do app(Herói-Client): https://expo.io/dashboard/alphamag330/
 
 
 
-<h1><a href="https://guilhermemag.github.io/" target="_blank"> Meu Portfólio </a></h1> 
+<h1><a href="https://guilhermemag.github.io/" target="_blank">By Guilherme Augusto Borges Casagrande</a></h1> 
   
 </body>
 </html>
