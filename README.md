@@ -2,7 +2,7 @@
 
  Plataforma de auxilio a ONG's de uso fácil e Prático.
 
-/** aqui vai um link **/
+Link para download do app: https://expo.io/dashboard/alphamag330/builds/20fb94e4-dbac-4fb7-985d-d55d05d3bd08
 
 <!DOCTYPE html>
 
