@@ -34,7 +34,7 @@ Link para download do app(Herói-Client): https://expo.io/dashboard/alphamag330/
 <img src="assets_readme/Screenshot_22.jpg"/>
 <h2>Contato Via WhatsApp ou E-mail</h2>
 <img src="assets_readme/Screenshot_23.jpg"/>
-<img src="assets_readme/printWhats.jpg"/>
+<img src="assets_readme/printWhats.jfif"/>
 
 
 
