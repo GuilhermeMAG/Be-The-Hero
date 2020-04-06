@@ -32,6 +32,8 @@ Link para download do app: https://expo.io/dashboard/alphamag330/builds/20fb94e4
 <img src="assets_readme/Screenshot_22.jpg"/>
 <h2>Contato Via WhatsApp ou E-mail</h2>
 <img src="assets_readme/Screenshot_23.jpg"/>
+<img src="assets_readme/printWhats.jpg"/>
+
 
 
 <h1><a href="https://guilhermemag.github.io/" target="_blank"> Meu Portfólio </a></h1> 
