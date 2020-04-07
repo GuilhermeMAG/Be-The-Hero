@@ -34,10 +34,9 @@ Link para download do app(Herói-Client): https://expo.io/dashboard/alphamag330/
 <img src="assets_readme/Screenshot_22.jpg"/>
 <h2>Contato Via WhatsApp ou E-mail</h2>
 <img src="assets_readme/Screenshot_23.jpg"/>
-<img src="assets_readme/printWhats.jfif"/>
+<img src="assets_readme/printWhats.jpg"/>
 
 <h1><a href="https://guilhermemag.github.io/" target="_blank">By Guilherme Augusto Borges Casagrande</a></h1> 
-<img src="assets_readme/MeuLogo3.png"/>
 
 </body>
 </html>
