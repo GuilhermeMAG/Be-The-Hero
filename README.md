@@ -36,11 +36,11 @@ Link para download do app(Herói-Client): https://expo.io/dashboard/alphamag330/
 <img src="assets_readme/Screenshot_23.jpg"/>
 <img src="assets_readme/printWhats.jfif"/>
 
+
+<h1><a href="https://guilhermemag.github.io/" target="_blank">By Guilherme Augusto Borges Casagrande</a></h1> 
 <img src="assets_readme/MeuLogo3.png"/>
 
 
-<h1><a href="https://guilhermemag.github.io/" target="_blank">By Guilherme Augusto Borges Casagrande</a></h1> 
-  
 </body>
 </html>
 
