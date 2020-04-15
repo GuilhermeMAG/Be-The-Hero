@@ -16,8 +16,8 @@
   <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-web">Web</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-mobile">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-web">Web</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-mobile">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
@@ -54,7 +54,7 @@ After merging your receipt request to done, you can delete a branch from yours.
 #api #nodejs #backend #frontend #react #reactnative #appdeveloper #rocketseat #omnistack #developer
 
 
-# Web
+# :rocket: Web
 
 ## Logon
 <img src="assets_readme/BeTheHeroLogon.jpg"/>
@@ -68,7 +68,7 @@ After merging your receipt request to done, you can delete a branch from yours.
 ## Lista de Casos
 <img src="assets_readme/BeTheHeroSession.jpg"/>
 
-# Mobile
+# :rocket: Mobile
 
 ## Splash
 <img src="assets_readme/Screenshot_20.jpg"/>
