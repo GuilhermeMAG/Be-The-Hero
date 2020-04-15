@@ -59,13 +59,13 @@ After merging your receipt request to done, you can delete a branch from yours.
 ## Logon
 <img src="assets_readme/BeTheHeroLogon.jpg"/>
 
-## Cadastro de ONG's
+## Registration of NGOs
 <img src="assets_readme/BeTheHeroNewlogin1.jpg"/>
 
-## Cadastro de Casos
+## Register of Cases
 <img src="assets_readme/BeTheHeroNew.jpg"/>
 
-## Lista de Casos
+## Cases List
 <img src="assets_readme/BeTheHeroSession.jpg"/>
 
 # :rocket: Mobile
@@ -73,13 +73,13 @@ After merging your receipt request to done, you can delete a branch from yours.
 ## Splash
 <img src="assets_readme/Screenshot_20.jpg"/>
 
-## Lista de Casos
+## Cases List
 <img src="assets_readme/Screenshot_21.jpg"/>
 
-## Detalhes do Caso
+## Cases Details
 <img src="assets_readme/Screenshot_22.jpg"/>
 
-## Contato Via WhatsApp ou E-mail
+## Contact By WhatsApp ou E-mail
 <img src="assets_readme/Screenshot_23.jpg"/>
 <img src="assets_readme/printWhats.jpg"/>
 
