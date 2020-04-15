@@ -6,18 +6,6 @@
 🚀 Semana OmniStack 11.0
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GuilhermeMAG/be-the-hero?color=%2304D361">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/GuilhermeMAG/be-the-hero">
-	
-  <a href="https://www.linkedin.com/in/guilherme-augusto-borges-casagrande-771a27160/">
-    <img alt="Made by GuilhermeMAG" src="https://img.shields.io/badge/made%20by-GuilhermeMAG-%2304D361">
-  </a>
-
-  <a href="https://github.com/GuilhermeMAG/be-the-hero/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GuilhermeMAG/be-the-hero">
-  </a>
-
   <a href="https://github.com/GuilhermeMAG/be-the-hero/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/GuilhermeMAG/be-the-hero">
   </a>
