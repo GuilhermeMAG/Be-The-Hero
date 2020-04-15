@@ -42,18 +42,6 @@ This project was developed with the following technologies:
 
 Para acessar o layout utilize a ferramenta [Figma](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1).
 
-## 🤔 How to contribute
-
-- Make a fork;
-- Create a branck with your feature: `git checkout -b my-feature`;
-- Commit changes: `git commit -m 'feat: My new feature'`;
-- Make a push to your branch: `git push origin my-feature`.
-
-After merging your receipt request to done, you can delete a branch from yours.
-
-#api #nodejs #backend #frontend #react #reactnative #appdeveloper #rocketseat #omnistack #developer
-
-
 # :rocket: Web
 
 ## Logon
@@ -82,6 +70,17 @@ After merging your receipt request to done, you can delete a branch from yours.
 ## Contact By WhatsApp ou E-mail
 <img src="assets_readme/Screenshot_23.jpg"/>
 <img src="assets_readme/printWhats.jpg"/>
+
+## 🤔 How to contribute
+
+- Make a fork;
+- Create a branck with your feature: `git checkout -b my-feature`;
+- Commit changes: `git commit -m 'feat: My new feature'`;
+- Make a push to your branch: `git push origin my-feature`.
+
+After merging your receipt request to done, you can delete a branch from yours.
+
+#api #nodejs #backend #frontend #react #reactnative #appdeveloper #rocketseat #omnistack #developer
 
 
 ## :memo: License
