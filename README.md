@@ -90,7 +90,7 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) for details
 
 ---
 
-Made by Guilherme Augusto Borges Casagrande [Get in touch!](https://www.linkedin.com/in/guilherme-augusto-borges-casagrande-771a27160/) <- Linkedin
+Made by Guilherme Augusto Borges Casagrande [Get in touch!](https://www.linkedin.com/in/guilherme-augusto-borges-casagrande-771a27160/) <- LinkedIn
 
 Made by Guilherme Augusto Borges Casagrande [Get in touch!](https://guilhermemag.github.io/) <- Portifólio
 
