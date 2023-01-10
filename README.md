@@ -93,6 +93,13 @@ Made by Guilherme Augusto Borges Casagrande [Get in touch!](https://www.linkedin
 
 Made by Guilherme Augusto Borges Casagrande [Get in touch!](https://guilhermemag.github.io/) <- Portifólio
 
+Para executar a aplicação
+Execute npm install nas pastas backend, frontend e mobile, para instalar as dependências.
 
+Rode npm start nas pastas backend e frontend para utilizar a versão web. Acesse via localhost:3000.
+
+Rode npm start nas pastas backend e mobile, acesse localhost:19002, leia o QR Code no seu celular e utilize o aplicativo Expo para rodar a versão mobile no seu smartphone. Também é possível executar em algum emulador Android/iOS.
+
+Veja também esse vídeo feito pelo christyanbrayan com a demonstração das versões web e mobile rodando localmente.
 
 
